@@ -54,7 +54,7 @@ ls > outputs/ex2_ls_simples.txt
 ls -la > outputs/ex2_ls_detalhado.txt
 
 # Listar apenas o diretório exemplos
-ls exemplos/ > outputs/ex2_ls_exemplos.txt
+ls -la > outputs/ex2_ls_detalhado.txt
 ```
 
 ### Exercício 1.3 - Navegando entre diretórios
@@ -64,7 +64,7 @@ ls exemplos/ > outputs/ex2_ls_exemplos.txt
 cd exemplos
 
 # Verificar onde estou agora
-pwd > ../outputs/ex3_navegacao.txt
+pwd > ../outputs/ex3_navegacao.txt //PAREI AQUIII
 
 # Voltar ao diretório anterior
 cd ..
