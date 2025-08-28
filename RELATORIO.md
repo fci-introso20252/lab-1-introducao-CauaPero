@@ -25,19 +25,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+O comando grep, porque ajuda a procurar palavras dentro de arquivos.
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+O pipe (|), porque não entendi de cara como juntar dois comandos.
+
+
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Sim
 ```
 
 ---
@@ -49,21 +51,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Liste 3 diferenças principais entre usar Windows e Linux que você notou:**
 
 ```
-1. [Primeira diferença]
-2. [Segunda diferença]
-3. [Terceira diferença]
+1. No Linux usa muito o terminal.  
+2. A estrutura de pastas é diferente.  
+3. O Linux já vem com muitas ferramentas para programar.  
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+Prefiro Windows, porque é mais fácil de usar no cotidiano.  
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+Em servidores, programação e segurança.  
 ```
 
 ---
@@ -75,21 +77,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+Porque muitos servidores usam Linux.  
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+Facilita automatizar tarefas e resolver problemas rápido. 
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. Servidores web.  
+2. Banco de dados.  
+3. Rede e segurança.
 ```
 
 ---
@@ -101,24 +103,20 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: __22___
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: __752K ??___
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+ls, cd, pwd, cat, echo
 ```
 
 ---
@@ -130,13 +128,15 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+Sim, para trabalhos da faculdade.  
+
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+Ajuda no trabalho em equipe, evita perder código e permite voltar para versões antigas.  
+
 ```
 
 ---
@@ -148,13 +148,14 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+Backups e monitorar o uso do sistema.  
+
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+Sim, porque é gratuito e bom para programar.  
 ```
 
 ---
@@ -164,13 +165,14 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+Aprender a mexer em pastas só pelo terminal.  
+
 ```
 
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+Trazer exemplos mais práticos e reais para empresas.  
 ```
 
 ---
