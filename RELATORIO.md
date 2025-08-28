@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** [Cauã Pereira Rodrigues]  
+**RA:** [10736109]  
 
 ---
 
